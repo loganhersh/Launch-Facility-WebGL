@@ -16,4 +16,4 @@ To accomplish this:
   
 ** This setting should be reverted to true before returning to regular browsing activities.
   
-The main file (p4.html) can be opened through an IDE like IntelliJ IDEA to avoid having to change settings in Firefox.
+The main file (index.html) can be opened through an IDE like IntelliJ IDEA to avoid having to change settings in Firefox.
