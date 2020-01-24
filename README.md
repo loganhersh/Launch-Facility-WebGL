@@ -20,3 +20,5 @@ The main file (index.html) can be opened through an IDE like IntelliJ IDEA to av
 
 
 ![alt text](images/launch3.png)
+![alt text](images/launch2.png)
+![alt text](images/launch1.png)
